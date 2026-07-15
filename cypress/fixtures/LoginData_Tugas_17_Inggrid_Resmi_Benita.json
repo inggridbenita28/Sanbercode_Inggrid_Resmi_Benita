@@ -1,0 +1,19 @@
+{
+    "LoginUsernamePasswordValid": {
+        "username": "Admin",
+        "password": "admin123"
+    },
+
+    "LoginUsernameLowercase": {
+        "username": "admin"
+    },
+
+    "LoginUsernamePasswordInvalid": {
+        "username": "usernamesalah",
+        "password": "passwordsalah"
+    },
+
+    "LoginUppercasePassword": {
+        "password": "ADMIN123"
+    }
+}
