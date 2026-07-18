@@ -3,7 +3,7 @@ import LoginPage from '../../support/PageObjects Final Project - Inggrid Resmi B
 import RecruitmentData from '../../fixtures/Final Project - Inggrid Resmi Benita/RecruitmentData_Final_Project_Inggrid.json'
 import loginData from '../../fixtures/Final Project - Inggrid Resmi Benita/LoginData_Final_Project_Inggrid.json'
 
-describe('Halaman Directory Pada Aplikasi Web OrangeHRM', () => {
+describe('Halaman Reqruitment Pada Aplikasi Web OrangeHRM', () => {
     beforeEach(() => {
         LoginPage.visitPage()
         LoginPage.inputUsername(loginData.LoginUsernamePasswordValid.username);
