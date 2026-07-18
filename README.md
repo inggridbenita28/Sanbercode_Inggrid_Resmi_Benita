@@ -10,5 +10,6 @@
 ## HASIL RUNNING FINAL PROJECT - INGGRID RESMI BENITA
 <img width="1920" height="1078" alt="login page final project - inggrid resmi benita" src="https://github.com/user-attachments/assets/433c84c1-048b-46e0-9ba0-0b4636ada125" />
 <img width="1920" height="1076" alt="directory page final project - inggrid resmi benita" src="https://github.com/user-attachments/assets/d700b710-da77-48d1-8494-470012783808" />
-<img width="1916" height="1080" alt="recruitment page final project - inggrid resmi benita" src="https://github.com/user-attachments/assets/e4434f07-81a9-4928-bfd3-0cbc05f1383a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4127e8f0-cb47-49cb-82dd-f5e43131343a" />
+
 
