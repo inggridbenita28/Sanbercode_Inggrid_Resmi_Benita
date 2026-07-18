@@ -1,0 +1,13 @@
+{
+    "CandidateInformation": {
+        "firstName": "Inggrid",
+        "lastName": "Benita",
+        "fullName": "Inggrid Benita",
+        "email": "inggrid@test.com"
+    },
+
+    "VacancyInformation":{
+        "JobtitleFound": "Account Assistant",
+        "JobtitleNotFound": "Automaton Tester"
+    }
+} 

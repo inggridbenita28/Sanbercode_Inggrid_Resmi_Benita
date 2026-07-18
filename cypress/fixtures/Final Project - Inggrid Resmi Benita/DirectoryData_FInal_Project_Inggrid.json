@@ -1,0 +1,22 @@
+{
+    "EmployeeName": {
+        "EmployeeName1": "Peter",
+        "EmployeeName2": "Peter Mac Anderson"
+    },
+
+    "JobtitleisRecordFound": {
+        "jobTitle": "Chief Financial Officer"
+    },
+
+    "LocationisRecordFound": {
+        "location": "New York Sales Office"
+    },
+
+    "JobtitleisRecordNotFound": {
+        "jobTitle": "Account Assistant"
+    },
+
+    "LocationisRecordNotFound": {
+        "location": "Canadian Regional HQ"
+    }
+}
