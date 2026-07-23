@@ -1,15 +1,53 @@
-## HASIL RUNNING TUGAS 16 - INGGRID RESMI BENITA
-<img width="1920" height="1080" alt="Tugas 16 - Inggrid Resmi Benita" src="https://github.com/user-attachments/assets/b01ead18-df68-4b07-a02d-abe9aff7b2cc" />
+# SanberCode Quality Assurance Bootcamp
 
-## HASIL RUNNING TUGAS 17 - INGGRID RESMI BENITA
-<img width="1918" height="1078" alt="Tugas 17 - Inggrid Resmi Benita" src="https://github.com/user-attachments/assets/29bc533a-b515-43f1-a0c1-51472a6b8bc4" />
+Repository ini berisi tugas dan project yang saya kerjakan selama mengikuti **Quality Assurance Bootcamp** di SanberCode.
 
-## HASIL RUNNING TUGAS 18 - INGGRID RESMI BENITA
-<img width="1920" height="1080" alt="tugas 18 - inggrid resmi benita" src="https://github.com/user-attachments/assets/9acbf64a-4536-45b9-9755-939090cc5f98" />
+## 🎯 Teknologi yang Digunakan
 
-## HASIL RUNNING FINAL PROJECT - INGGRID RESMI BENITA
-<img width="1920" height="1078" alt="login page final project - inggrid resmi benita" src="https://github.com/user-attachments/assets/433c84c1-048b-46e0-9ba0-0b4636ada125" />
-<img width="1920" height="1076" alt="directory page final project - inggrid resmi benita" src="https://github.com/user-attachments/assets/d700b710-da77-48d1-8494-470012783808" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4127e8f0-cb47-49cb-82dd-f5e43131343a" />
+- Cypress
+- JavaScript
+- Page Object Model (POM)
+- API Testing
+- Git & GitHub
 
+## 🌐 Demo Application
 
+**Web Application**
+- https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+**API**
+- https://api.escuelajs.co/api/v1
+
+## 📂 Isi Repository
+
+### 📌 Quiz 3
+Latihan dasar Automation Testing menggunakan Cypress, meliputi penggunaan command, locator, assertion, dan struktur dasar test.
+
+### 📌 Tugas 16
+Automation Testing pada fitur Login OrangeHRM menggunakan **Cypress Intercept** untuk memantau request dan response API selama proses login.
+
+### 📌 Tugas 17
+Automation Testing pada fitur Login OrangeHRM menggunakan **Page Object Model (POM)** agar struktur kode lebih rapi, mudah dikelola, dan reusable.
+
+### 📌 Tugas 18
+Automation API Testing menggunakan Cypress pada **EscuelaJS Fake API**, meliputi pengujian endpoint API dengan berbagai skenario serta validasi status code dan response.
+
+### 📌 Final Project
+Project akhir Automation Testing pada website OrangeHRM yang mencakup tiga modul:
+- Login
+- Directory
+- Recruitment
+
+Project ini menerapkan:
+- ✅ Page Object Model (POM)
+- ✅ Cypress Intercept
+- ✅ UI Automation Testing
+- ✅ Positive & Negative Test Scenario
+
+## 👩‍💻 Tentang Saya
+
+Saya merupakan seorang **IT Project & Application Maintenance Engineer** yang sedang mengembangkan karier sebagai **Quality Assurance Engineer**. Repository ini merupakan dokumentasi proses belajar dan implementasi automation testing menggunakan Cypress selama mengikuti Quality Assurance Bootcamp di SanberCode.
+
+📌 LinkedIn: https://www.linkedin.com/in/inggrid-benita
+
+Terima kasih telah mengunjungi repository ini. 😊
